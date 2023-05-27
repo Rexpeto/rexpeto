@@ -10,9 +10,13 @@
     <a href="https://www.linkedin.com/in/carlos-gallardo-693768198">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
+    <a href="https://github.com/rexpeto">
+        <img src="logo.svg" alt="My Logo" />
+    </a>
 </p>
 
 ### Languages
+
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/rexpeto)
 [![Typescript](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript)](https://github.com/rexpeto)
 [![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/rexpeto)
@@ -20,6 +24,7 @@
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/rexpeto)
 
 ### Technologies & Frameworks
+
 [![Angular](https://img.shields.io/badge/angular-black?style=for-the-badge&logo=angular)](https://github.com/rexpeto)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/rexpeto)
 [![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=nodedotjs)](https://github.com/rexpeto)
@@ -32,11 +37,13 @@
 [![Vue](https://img.shields.io/badge/vue-black?style=for-the-badge&logo=vuedotjs)](https://github.com/rexpeto)
 
 ### DataBases
+
 [![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/rexpeto)
 [![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)](https://github.com/rexpeto)
 [![PostgreSQL](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql)](https://github.com/rexpeto)
 
 ### OS
+
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/rexpeto)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/rexpeto)
 [![Mac](https://img.shields.io/badge/macos-black?style=for-the-badge&logo=Macos)](https://github.com/rexpeto)
