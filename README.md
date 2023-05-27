@@ -1,4 +1,4 @@
-<h1 align="center">Hi, guys! <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
+<h1 align="center">Hi, guys! <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"> <img src="logo.svg" alt="My Logo" /></h1>
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
@@ -9,9 +9,6 @@
     </i><br>
     <a href="https://www.linkedin.com/in/carlos-gallardo-693768198">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-    </a>
-    <a href="https://github.com/rexpeto">
-        <img src="logo.svg" alt="My Logo" />
     </a>
 </p>
 
