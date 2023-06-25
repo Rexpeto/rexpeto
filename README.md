@@ -22,7 +22,6 @@
 
 ### Technologies & Frameworks
 
-[![Angular](https://img.shields.io/badge/angular-black?style=for-the-badge&logo=angular)](https://github.com/rexpeto)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/rexpeto)
 [![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=nodedotjs)](https://github.com/rexpeto)
 [![Express](https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express)](https://github.com/rexpeto)
@@ -57,7 +56,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rexpeto&theme=transparent" />
   </a>
   <a href="https://github.com/rexpeto">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexpeto&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexpeto&langs_count=10&card_width=699&hide_border=true&theme=transparent" />
   </a>
 </p>
 </details>
