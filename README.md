@@ -10,6 +10,7 @@
     <a href="https://www.linkedin.com/in/carlos-gallardo-693768198">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
+    [![](https://visitcount.itsvg.in/api?id=Rexpeto&label=Profile%20Views&color=1&icon=3&pretty=true)](https://visitcount.itsvg.in)
 </p>
 
 ### Languages
