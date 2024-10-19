@@ -51,7 +51,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rexpeto&theme=transparent" />
   </a>
   <a href="https://cdgp.vercel.app">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Rexrpeto&theme=github-dark-blue&hide_border=true&hide_total_contributions=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Rexpeto&theme=github-dark-blue&hide_border=true&hide_total_contributions=true" alt="GitHub Streak" />
   </a>
   <a href="https://cdgp.vercel.app">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rexpeto&theme=transparent" />
