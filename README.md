@@ -47,16 +47,16 @@
 [![](https://visitcount.itsvg.in/api?id=Rexpeto&label=Profile%20Views&color=1&icon=3&pretty=true)](https://visitcount.itsvg.in)
 <details>
 <p align="center">
-  <a href="https://github.com/rexpeto">
+  <a href="https://cdgp.vercel.app">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rexpeto&theme=transparent" />
   </a>
-  <a href="https://github.com/rexpeto">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wervlad&hide_border=true&card_width=338&theme=transparent" />
+  <a href="https://cdgp.vercel.app">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Rexrpeto&theme=github-dark-blue&hide_border=true&hide_total_contributions=true" alt="GitHub Streak" />
   </a>
-  <a href="https://github.com/rexpeto">
+  <a href="https://cdgp.vercel.app">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rexpeto&theme=transparent" />
   </a>
-  <a href="https://github.com/rexpeto">
+  <a href="https://cdgp.vercel.app">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexpeto&langs_count=10&card_width=699&hide_border=true&theme=transparent" />
   </a>
 </p>
