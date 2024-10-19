@@ -44,7 +44,7 @@
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/rexpeto)
 [![Mac](https://img.shields.io/badge/macos-black?style=for-the-badge&logo=Macos)](https://github.com/rexpeto)
 
-[![](https://visitcount.itsvg.in/api?id=Rexpeto&label=Profile%20Views&color=1&icon=3&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Rexpeto&label=Profile%20Views&color=1&icon=3&pretty=true)](https://cdgp.vercel.app)
 <details>
 <p align="center">
   <a href="https://cdgp.vercel.app">
